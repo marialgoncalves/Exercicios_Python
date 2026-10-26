@@ -1,0 +1,7 @@
+USE seguranca;
+
+CREATE TABLE IF NOT EXISTS login_usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    usuario VARCHAR(100) NOT NULL UNIQUE,
+    senha_hash VARCHAR(255) NOT NULL
+);
