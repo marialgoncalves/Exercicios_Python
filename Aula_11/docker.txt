@@ -1,1 +1,1 @@
-Exercícios de Docker. 
+Aula sobre Docker, não precisava subir os exercícios. 
