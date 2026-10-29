@@ -1,0 +1,6 @@
+Esse projeto utiliza uma API da OpenAI. Para executar as funcionalidades que precisam dela, 
+é necessário configurar a variável de ambiente OPENAI_API_KEY com uma chave válida. 
+Por segurança, não coloquei a chave nos arquivos do projeto.
+
+Como configurei a chave no terminal:
+$env:OPENAI_API_KEY="sk-chave"
